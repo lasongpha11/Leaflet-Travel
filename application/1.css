@@ -1,0 +1,13 @@
+*{margin: 0; padding: 0;}
+
+ul.pagination.phantrang div {display: inline;text-align: center;}
+
+ul.pagination.phantrang a {}
+
+ul.pagination.phantrang a, ul.pagination.phantrang b {
+    display: inline-block;
+    border: 1px solid gray;
+    padding: 4px 10px;
+}
+
+
